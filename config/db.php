@@ -2,9 +2,9 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=localhost;dbname=evamellow_dboard',
-    'username' => 'evamellow_dboard',
-    'password' => '9b7U30%b',
+    'dsn' => 'mysql:host=localhost;dbname=db-name',
+    'username' => 'db-user',
+    'password' => 'db-pass',
     'charset' => 'utf8',
 
     // Schema cache options (for production environment)
